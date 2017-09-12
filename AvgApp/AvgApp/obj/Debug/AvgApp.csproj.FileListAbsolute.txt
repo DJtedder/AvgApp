@@ -1,0 +1,9 @@
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\bin\Debug\AvgApp.exe.config
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\bin\Debug\AvgApp.exe
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\bin\Debug\AvgApp.pdb
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\obj\Debug\AvgApp.csprojResolveAssemblyReference.cache
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\obj\Debug\AvgApp.Form1.resources
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\obj\Debug\AvgApp.Properties.Resources.resources
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\obj\Debug\AvgApp.csproj.GenerateResource.Cache
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\obj\Debug\AvgApp.exe
+c:\users\dereck\documents\visual studio 2017\Projects\AvgApp\AvgApp\obj\Debug\AvgApp.pdb
